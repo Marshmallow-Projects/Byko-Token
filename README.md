@@ -58,7 +58,7 @@ Check out the full [**BaykoToken Whitepaper**](./BaykoToken_Whitepaper.md) for d
 Join the growing BAYKO community and be part of the movement! 🚀
 
 - **Website:** [Marshmallow.Projects](www.marshmallowprojects.com)
-- **Twitter/X:** [@@MarshmallowProj](https://x.com/MarshmallowProj)
+- **Twitter/X:** [@MarshmallowProj](https://x.com/MarshmallowProj)
 - **Telegram:** [Bayko Telegram Community](https://t.me/bykotoken)
 - **Email:** admin@marshmallowprojects.com
 
