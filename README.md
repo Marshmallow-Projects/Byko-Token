@@ -25,7 +25,7 @@ Check out the full [**BaykoToken Whitepaper**](./BaykoToken_Whitepaper.md) for d
 
 ## 📊 **Tokenomics**
 
-- **Total Supply:** 1,000,000,000 BAYKO
+- **Total Supply:** 100,000,000 BAYKO
 - **Blockchain:** Solana Smart Chain
 - **Allocation:**
   - 65% — Rewards & Loyalty Programs
