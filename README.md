@@ -28,11 +28,12 @@ Check out the full [**BaykoToken Whitepaper**](./BaykoToken_Whitepaper.md) for d
 - **Total Supply:** 1,000,000,000 BAYKO
 - **Blockchain:** Solana Smart Chain
 - **Allocation:**
-  - 60% — Rewards & Loyalty Programs
-  - 20% — Marketing & Partnerships
-  - 10% — Team & Operations
-  - 5% — Community Fund
-  - 5% — Liquidity Pool
+  - 65% — Rewards & Loyalty Programs
+  - 10% — Marketing & Partnerships
+  - 3% — Team & Operations
+  - 10% — Community Fund
+  - 2% Reserved by Marshmallow.Projects
+  - 10% — Liquidity Pool
 
 ---
 
